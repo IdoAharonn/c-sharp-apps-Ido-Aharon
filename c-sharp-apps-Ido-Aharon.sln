@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "c-sharp-apps-Ido-Aharon", "c-sharp-apps-Ido-Aharon\c-sharp-apps-Ido-Aharon.csproj", "{0ED4E69B-6BD1-48B4-86BE-034738533593}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0ED4E69B-6BD1-48B4-86BE-034738533593}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0ED4E69B-6BD1-48B4-86BE-034738533593}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0ED4E69B-6BD1-48B4-86BE-034738533593}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0ED4E69B-6BD1-48B4-86BE-034738533593}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15C60BA1-2F4A-42E7-AAA7-90BE17699E53}
+	EndGlobalSection
+EndGlobal
