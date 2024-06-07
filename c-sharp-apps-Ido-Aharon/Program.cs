@@ -1,2 +1,4 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+using c_sharp_apps_Ido_Aharon.SportApp;
+
+SportAppMain.MainEntry();

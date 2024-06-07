@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace c_sharp_apps_Ido_Aharon.SportApp
 {
-    public class SportAppMain
+   public class round
     {
-        public static void MainEntry()
-        {
-            Console.WriteLine("SportApp");
-        }
+        private Game[] arr;
+
     }
-
-  
 }
-
