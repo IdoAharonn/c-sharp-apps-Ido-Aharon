@@ -22,6 +22,12 @@ namespace c_sharp_apps_Ido_Aharon.SportApp
             for (int i = 0; i < amoutTeam; i++)
                 Console.WriteLine($"{i + 1} - {arr[i].GetName()} - {arr[i].GetPoints()}");
         }
-
+        public Season(int year, string typeOfSport, string league, Team[] arr)
+        {
+            this.year = year;
+            this.typeOfSport = typeOfSport;
+            this.league = league;
+            this.arr = arr;
+        }
     }
 }

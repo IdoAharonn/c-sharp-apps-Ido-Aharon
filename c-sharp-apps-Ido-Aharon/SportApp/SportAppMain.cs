@@ -11,6 +11,8 @@ namespace c_sharp_apps_Ido_Aharon.SportApp
         public static void MainEntry()
         {
             Console.WriteLine("SportApp");
+           
+
         }
     }
 
